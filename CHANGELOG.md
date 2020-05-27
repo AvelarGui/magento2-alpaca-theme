@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 ### Changed
 - quicksearch display, variables & components view (#65066)
+- pdp fotorama placeholder set size only of the main image (#66198)
 ### Fixed
 ### Removed
 ### Fixed
