@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 ### Changed
 - quicksearch display, variables & components view (#65066)
 - pdp fotorama placeholder set size only of the main image (#66198)
+- update variable, sku font weight in product view (#66979)
 ### Fixed
 ### Removed
 ### Fixed

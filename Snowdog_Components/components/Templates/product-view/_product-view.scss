@@ -100,12 +100,8 @@
     }
 
     &__sku {
-        display: none;
-
-        @include mq($screen-m) {
-            display: block;
-            color: $product-view__sku-color;
-        }
+        color: $product-view__sku-color;
+        font-weight: $product-view__sku-font-weight;
     }
 
     &__stock {
