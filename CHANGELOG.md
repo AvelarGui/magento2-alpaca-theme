@@ -2,11 +2,13 @@
 All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
+
 ### Added
 ### Changed
+- quicksearch display, variables & components view (#65066)
 ### Fixed
 ### Removed
-
+### Fixed
 
 ## [Released]
 ## [2.0.1] - 2020-05-27
