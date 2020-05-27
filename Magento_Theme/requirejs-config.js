@@ -32,13 +32,5 @@ var config = {
         "Magento_Theme/js/mixins/grid-listing-mixin": true
       }
     }
-  },
-  shim: {
-    "slider": {
-      "deps": ["jquery", "slick"]
-    },
-    "select2":{
-      "deps": ["jquery"]
-    }
   }
 };
