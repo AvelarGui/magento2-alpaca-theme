@@ -13,6 +13,10 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 
 ## [Released]
+## [2.0.2] - 2020-05-29
+### Added
+- missing ACM templates
+
 ## [2.0.1] - 2020-05-27
 ### Fixed
 - swatches layered template (hotfix 2.0.1)
@@ -110,6 +114,7 @@ All notable changes to this project will be documented in this file.
 - success page styles - spacing and standard header & footer (#64572)
 - layerd navigation - spaceing alignment (#64572)
 - removed double header tag & skip nav link (#64572)
+- EE - Dashboard - mutliple requisition lists - toolbar adjustments (#66171)
 
 ### Removed
 - doubled add to cart for configurable products (#67192)
