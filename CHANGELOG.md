@@ -12,6 +12,7 @@ All notable changes to this project will be documented in this file.
 - Quick order change styling for single sku row (#66172)
 - Cookie popup amasty styling (#67268)
 - update variable, sku font weight in product view (#66979)
+- Customer orders and returns form (#66891)
 ### Fixed
 ### Removed
 ### Fixed
